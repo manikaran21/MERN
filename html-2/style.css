@@ -1,0 +1,16 @@
+#university{
+    width: 240px;
+    height: 150px;
+    position: relative;
+    
+    
+}
+#center {
+    text-align: center;
+}
+a{
+    font-size: 18pt;
+    font-family:Monotype Corsiva;
+    text-align: center;
+    
+}

@@ -1,0 +1,96 @@
+body{
+    background-color:rgb(105, 5, 5) ;
+}
+#header-01{
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 2px;
+}
+.container-fluid {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+.campus{
+    color:white ;
+    letter-spacing: 1px;
+    font-size: x-large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display:inline ;
+}
+.logo{
+    width:30px;
+    height:30px ;
+}
+#item-01{
+   margin-top: 2px;
+}
+#item-02{
+    margin-left: 25px ;
+
+}
+#item-03{
+    margin-left:200px;
+}
+#item-01 ,#item-02 ,#item-03 ,#item-04{
+    display:inline-block ;
+}
+.info {
+    
+    background-color:rgb(52, 47, 47);
+    overflow: auto;
+    margin-left: 200px;
+    margin-right: 250px;  
+    
+  }
+  
+  /* Navigation links */
+  .info a {
+    float: left;
+    height:30px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    width: 15%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center; /* If you want the text to be centered */
+  }
+  
+  /* Add a background color on mouse-over */
+  .info a:hover {
+    background-color:white;
+    color:black;
+  }
+  
+  /* Style the current/active link */
+  .info a.active {
+    background-color: red;
+  }
+  .flex-container{
+      margin-left: 200px;
+      margin-right: 250px;
+      margin-top: 2px;
+      background-color: white;
+      
+        display: flex;
+        
+  }
+  .image{
+      width:300px ;
+      height:200px ;
+      border-radius: 5px;
+      margin-left:10px;
+      float:left;
+      margin:10px ;
+  }
+  #foot{
+      background-color: rgb(29, 25, 25);
+      color:white ;
+      margin-left:200px ;
+      text-align: center;
+      width:1000px;
+      
+  }
+  
+  /* Add responsiveness - on screens less than 500px, make the navigation links appear on top of each other, instead of next to each other */
+ 
+  
