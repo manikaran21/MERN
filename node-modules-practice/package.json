@@ -1,0 +1,21 @@
+{
+  "name": "modules-practice",
+  "version": "1.0.0",
+  "description": "### Instructions Refer the PROBLEM.md file for the problem description.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon LodashModule/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab-wipro.stackroute.in:2225/masanmb17tes/node-modules-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.19"
+  }
+}
