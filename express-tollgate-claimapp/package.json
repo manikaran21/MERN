@@ -1,0 +1,25 @@
+{
+  "name": "express-tollgate-claimapp",
+  "version": "1.0.0",
+  "description": "### Instructions Refer the problem.md file for problem description.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab-wipro.stackroute.in:2225/masanmb17tes/express-tollgate-claimapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

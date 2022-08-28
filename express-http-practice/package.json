@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "name": "express-http-practice",
+  "description": "### Instructions Refer the PROBLEM.md file for the problem description.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start" : "nodemon app.js" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@gitlab-wipro.stackroute.in:2225/masanmb17tes/express-http-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
