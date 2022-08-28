@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Sachin",
+      "country": "india",
+      "matchesPlayed": 300
+    },
+    {
+      "id": 2,
+      "name": "Kohli",
+      "country": "india",
+      "matchesPlayed": 400
+    },
+    {
+      "id": 3,
+      "name": "brian lara",
+      "country": "west indies",
+      "matchesPlayed": "122"
+    },
+    {
+      "name": "wipro",
+      "country": "India",
+      "matchesPlayed": "200",
+      "id": 4
+    },
+    {
+      "name": "Stackroute",
+      "country": "India",
+      "matchesPlayed": "90",
+      "id": 5
+    }
+  ]
+}
